@@ -10,4 +10,4 @@ For this workshop, you will be building out the functionality of a simple app th
 
 ## Submission
 
-Submit a link to your Github repo.
+Submit a link of your code;
